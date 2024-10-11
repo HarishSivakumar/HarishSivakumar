@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Harish Sivakumar!</h1>
 <h3 align="center">A passionate Cyber Security Analyst, Data Scientist, and Machine Learning Enthusiast</h3>
+<h3 align="center">"I do not fear computers. I fear the lack of them." --Isaac Asimov</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="harishsivakumar" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Harish Sivakumar!</h1>
-<h3 align="center">A passionate Cyber Security Analyst, Data Scientist, and Machine Learning Enthusiast</h3>
+<h3 align="center">CEH Certified EC Council || Aspiring Cyber Security Analyst || Data Analyst and Scientist || Artificial Intelligence and Machine Learning || Deep Learning || Student at BU’26 || Believe the First Principal Approach</h3>
 <h3 align="center">"I do not fear computers. I fear the lack of them." --Isaac Asimov</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="harishsivakumar" /> </p>
@@ -9,7 +9,8 @@
 ---
 
 ### About Me
-💡 I’m an aspiring Cyber Security Analyst, Data Scientist, and Machine Learning Enthusiast with a passion for cutting-edge technologies. I focus on solving real-world problems with expertise in AI/ML, data analysis, and cybersecurity.
+💡I am a technology enthusiast with a strong passion for solving real-world challenges using Machine and Deep Learning. I excel at uncovering hidden patterns and trends through insightful data analysis. Dedicated to the field of Data Science and Analytics, I strive to create a meaningful impact by leveraging intelligent systems and the transformative power of data.
+Along with all these skills, I am also into SOC Analyst, Threat Hunting, Incident Response and many more Cybersecurity and AI roles.
 
 ---
 

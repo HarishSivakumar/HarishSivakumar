@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Harish Sivakumar!</h1>
-<h3 align="center">CEH Certified EC Council || Aspiring Cyber Security Analyst || Data Analyst and Scientist || Artificial Intelligence and Machine Learning || Deep Learning || Student at BU’26 || Believe the First Principal Approach</h3>
-<h3 align="center">"I do not fear computers. I fear the lack of them." --Isaac Asimov</h3>
+<h3 align="center">CEH Certified EC Council || Aspiring Cyber Security Analyst || Data Analyst and Scientist || Artificial Intelligence and Machine Learning || Deep Learning || Student at BU’26 || Believe the First Principle Approach</h3>
+<h3 align="center">"💡 "AI is not a replacement for human intelligence; it is a tool to amplify human potential." – Fei-Fei Li"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsivakumar&label=Profile%20views&color=0e75b6&style=flat" alt="harishsivakumar" /> </p>
 

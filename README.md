@@ -1,75 +1,84 @@
 # Hi, I'm Harish Sivakumar 👋
 
-### Full Stack Engineer · AI/ML Engineer · Data Engineer
-> Building production-grade AI systems, RAG pipelines, and scalable cloud architectures
+### I ship production systems.
+
+> RAG pipelines in prod · 60+ Lambda functions · AI observability at scale 
 
 📍 Noida, India &nbsp;|&nbsp; 📧 [harish210105@gmail.com](mailto:harish210105@gmail.com) &nbsp;|&nbsp; 💼 [linkedin.com/in/harish2101](https://linkedin.com/in/harish2101) &nbsp;|&nbsp; 🌐 [EscalateAI (Live)](https://escalate-ai-gold.vercel.app)
 
 ![Available May 2026](https://img.shields.io/static/v1?label=Available&message=May+2026&color=22C55E&style=for-the-badge)
 ![Open to Finland & India](https://img.shields.io/static/v1?label=Open+to&message=Finland+%7C+India&color=003580&style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HarishSivakumar.HarishSivakumar)
 
 ---
 
-## 🧠 About Me
+## ⚡ What I Actually Do
 
-I build **AI-powered systems and data pipelines** that solve real business problems — not just models in isolation.
+While others benchmark models, I keep them running in production.
 
-At **ZipTier** (AI Marketing SaaS — 6–7 person team), I work on:
+At **ZipTier** (AI Marketing SaaS), I own:
 
-- 🔹 **RAG pipelines** with ~200ms retrieval latency using Amazon Bedrock + Pinecone
-- 🔹 **Serverless architectures** across 60+ production AWS Lambda functions
-- 🔹 **Scalable data systems** across 30+ Redshift and 30+ DynamoDB tables
-- 🔹 **Production observability** via CloudWatch dashboards with 75–80% actionable coverage
+| What | Scale |
+|---|---|
+| AWS Lambda functions in production | 60+ |
+| Redshift + DynamoDB tables managed | 30+ each |
+| RAG retrieval latency | ~200ms |
+| CloudWatch dashboards built | 6–7 with 20+ widgets |
+| Manual reporting eliminated | 10+ hours/week |
+| Incident resolution improvement | ~40% faster |
 
-My work sits at the intersection of **AI Engineering**, **Data Systems**, and **Backend Engineering**.
-
-Currently finishing my CS degree in India while shipping production AI — and planning my next chapter in Finland 🇫🇮.
-
----
-
-## 💼 Work Experience
-
-### 🔹 Full Stack Engineer — ZipTier *(Jan 2026 – Present)*
-
-`AWS Lambda` · `Step Functions` · `Amazon Bedrock` · `Pinecone` · `Redshift` · `DynamoDB` · `GraphQL` · `API Gateway`
-
-- Maintained and debugged **60+ production Lambda functions** powering AI chat, analytics, BI tools, and Stripe payment workflows; reduced mean incident resolution time by **~40%** through structured root-cause analysis
-- Designed ETL pipelines, Materialized Views, and Stored Procedures across **30+ Redshift and 30+ DynamoDB tables**, automating anomaly detection via Step Functions and SES — eliminating **10+ hours/week** of manual reporting
-- Engineered the core RAG pipeline — chunking, embedding, metadata filtering, semantic retrieval, and LLM guardrails — achieving **~200ms retrieval latency** on document collections up to 25 MB
-- Built **6–7 CloudWatch dashboards** with **20+ operational widgets**, improving production observability to **~75–80% actionable coverage**
-- Designed GraphQL and REST APIs via AWS API Gateway; led incident management by defining severity levels, escalation workflows, and prioritization strategies
+Currently finishing my CS degree — shipping production AI the whole time. Next stop: Finland 🇫🇮.
 
 ---
 
-### 🔹 AI Engineer Intern — ZipTier *(Jun 2025 – Jan 2026)*
+## 💼 Production Experience
+
+### Full Stack Engineer — ZipTier *(Jan 2026 – Present)*
+
+`AWS Lambda` · `Step Functions` · `Amazon Bedrock` · `Pinecone` · `Redshift` · `DynamoDB` · `GraphQL` · `API Gateway` · `Amazon SES`
+
+- Maintained and debugged **60+ production Lambda functions** powering AI chat, analytics, BI tools, and Stripe payment workflows — reduced incident resolution time by **~40%**
+- Designed ETL pipelines, Materialized Views, and Stored Procedures across **30+ Redshift and 30+ DynamoDB tables**, automating anomaly detection and eliminating **10+ hours/week** of manual reporting
+- Engineered the core RAG pipeline — chunking, embedding, metadata filtering, semantic retrieval, LLM guardrails — achieving **~200ms retrieval latency** on collections up to 25 MB
+- Built **6–7 CloudWatch dashboards** with **20+ operational widgets** covering Lambda health, cold starts, throttling, and error trends — **~75–80% actionable observability**
+- Designed GraphQL and REST APIs via AWS API Gateway; owned incident severity classification and escalation workflows
+
+---
+
+### AI Engineer Intern — ZipTier *(Jun 2025 – Jan 2026)*
 
 `Amazon Bedrock` · `Pinecone` · `Prompt Engineering` · `LLM Orchestration` · `CloudWatch Logs Insights`
 
-- Built RAG-based retrieval workflows integrating Amazon Bedrock LLMs with Pinecone, improving context accuracy across **20–40 document collections**
-- Implemented prompt engineering and LLM orchestration pipelines, reducing hallucination rate across **3+ distinct AI workflows**
-- Developed CloudWatch Logs Insights queries to surface Lambda bottlenecks and streaming failures, cutting average debugging time **from hours to minutes**
+- Built RAG retrieval workflows integrating Amazon Bedrock LLMs with Pinecone across **20–40 document collections**
+- Implemented prompt engineering and LLM orchestration across **3+ distinct AI workflows**, reducing hallucination rate
+- Cut debugging time **from hours to minutes** using targeted CloudWatch Logs Insights queries
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 [EscalateAI — AI Escalation Intelligence Platform](https://escalate-ai-gold.vercel.app)
 
-**Stack:** `Next.js` · `FastAPI` · `scikit-learn` · `LLMs (Ollama)` · `Supabase` · `PostgreSQL` · `GitHub Actions` · `Vercel` · `Render`
+`Next.js` · `FastAPI` · `scikit-learn` · `LLMs (Ollama)` · `Supabase` · `PostgreSQL` · `GitHub Actions` · `Vercel`
 
-- Built and deployed a full-stack AI platform that analyzes customer support conversations in real time, predicts escalation risk across **5 severity signals**, and auto-assigns incident priority (P1–P3) before issues become critical
-- Implemented a hybrid AI pipeline combining **scikit-learn ML models, rule-based NLP signal extraction, and LLM reasoning** (Ollama) to deliver explainable escalation predictions with **confidence scoring** — not black-box outputs
-- Architected FastAPI REST backend with **10+ API endpoints**, PostgreSQL schema via Supabase, Next.js dashboards with Recharts, and full CI/CD on Vercel and Render via GitHub Actions
+**The problem:** Support teams find out about escalations after the damage is done.
+
+**What I shipped:**
+- Real-time conversation analysis detecting risk across **5 severity signals**
+- Hybrid pipeline: **ML models + rule-based NLP + LLM reasoning** → explainable P1–P3 priority with confidence scoring
+- FastAPI backend with **10+ endpoints** + Next.js dashboards + full CI/CD on Vercel via GitHub Actions
+- End-to-end: designed, built, deployed, live
 
 ---
 
 ### 🔹 Scalable RAG System
 
-**Stack:** `Python` · `LangChain` · `Pinecone` · `Hugging Face` · `Sentence Transformers` · `PostgreSQL`
+`Python` · `LangChain` · `Pinecone` · `Hugging Face` · `Sentence Transformers` · `PostgreSQL`
 
-- Designed a modular end-to-end RAG pipeline: document ingestion, chunking (**3+ strategies tested**), embedding generation via Hugging Face Sentence Transformers, Pinecone vector indexing, and LLM context assembly
-- Optimized retrieval grounding quality by benchmarking chunking approaches and metadata filtering strategies; built for extensibility to **100K+ document** collections
-- Demonstrates skills directly applied in production at ZipTier
+**What I shipped:**
+- Modular RAG pipeline: ingestion → chunking → embedding → vector indexing → retrieval → LLM context assembly
+- Benchmarked **3+ chunking strategies** to optimize grounding quality
+- Built for extensibility to **100K+ documents** — same architecture running in production at ZipTier
 
 ---
 
@@ -101,7 +110,7 @@ Currently finishing my CS degree in India while shipping production AI — and p
 **B.Tech — Computer Science Engineering**
 Bennett University, Greater Noida · CGPA: **8.99 / 10** · Sep 2022 – May 2026
 
-*Relevant Coursework: Artificial Intelligence · Machine Learning · Deep Learning · Data Structures & Algorithms · Distributed Systems · Database Systems*
+*Relevant Coursework: AI · ML · Deep Learning · Data Structures & Algorithms · Distributed Systems · Database Systems*
 
 ---
 
@@ -110,7 +119,7 @@ Bennett University, Greater Noida · CGPA: **8.99 / 10** · Sep 2022 – May 202
 | Certification | Issuer | Year |
 |---|---|---|
 | Deloitte Australia Data Analytics Job Simulation | Forage | Mar 2025 |
-| Deep Learning Specialization (3 Courses) — Probability & Statistics · Hyperparameter Tuning · CNNs | DeepLearning.AI · Coursera | 2024 |
+| Deep Learning Specialization (3 Courses) | DeepLearning.AI · Coursera | 2024 |
 | Introduction to AI | IBM | 2024 |
 
 ---
